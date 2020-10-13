@@ -1,3 +1,5 @@
 # Simple Landing Page
 
-<img src="./images/pic1.jpg" />
+### Created in react and material ui
+
+<img src="./src/images/pic1.jpg" />
